@@ -19,3 +19,12 @@
 - Hosts App on HTTPs provides that feature also
 - Tree Shaking Algorithm - Remove unused code
 - Different dev and production bundles
+
+# JSX , PARCEL , BABEL
+- JSX is not HTML inside Javascript
+- It has HTML or XML like syntax
+- JSX code is transpiled before it reaches to javascript engine
+- JSX transpiled by PARCEL -> BABEL is javascript compiler
+- JSX => React.createElement => ReactElement-JS(Object) => HTMLElement(render)
+
+
