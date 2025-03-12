@@ -27,4 +27,20 @@
 - JSX transpiled by PARCEL -> BABEL is javascript compiler
 - JSX => React.createElement => ReactElement-JS(Object) => HTMLElement(render)
 
+# Food ordering website structure
+* Header
+*  - Logo
+*  - Nav Items
+* Body
+*  - Search
+*  - RestaurantContainer
+*    - RestaurantCard
+*      - Img
+*      - Name of Res, Star Ratings, cuisines, Delivery time
+* Footer
+* - Copyright
+* - Links
+* - Address
+* - Contact
+
 
