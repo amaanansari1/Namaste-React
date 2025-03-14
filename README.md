@@ -44,3 +44,25 @@
 * - Contact
 
 
+There are two types of Export/Import
+
+- Default Export/Import
+
+export default Component;
+import Component from "path";
+
+
+- Named Export/Import
+
+export const Component;
+import {Component} from "path";
+
+# REACT HOOKS
+  (Normal JS Utility Functions)
+
+  - Two most important react hooks
+  - useState() - Superpowerful state variables in react
+  - useEffect()
+
+
+
